@@ -1,0 +1,20 @@
+:host() {
+    display: flex;
+    flex-direction: column;
+    color:aliceblue;
+}
+
+app-footer {
+    align-self:flex-end;
+    color:aliceblue;
+
+}
+
+.space {
+    flex-grow: 1;
+    color:aliceblue;
+}
+.content {
+    text-align:center;
+    color:aliceblue;
+}
